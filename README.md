@@ -1,2 +1,2 @@
 # Tutorial-Repository
-A repository for the practoice tutorial
+A repository for the practice tutorial
